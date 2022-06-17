@@ -1,0 +1,58 @@
+id: IF4FBB247
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:26:00.367028'
+last_modified: '2022-06-17T14:26:00.367046'
+parser: null
+source_metadata:
+  title: Striking the Vital Point in Three Statements
+  language: pt
+  description: 'A series of texts based on the final testament of Garab Dorje, a key
+    Dzogchen instruction known as ''Striking the Vital Point in Three Statements''
+    (tshig gsum gnad brdegs):'
+  volume:
+    f88E2:
+      title: Pith Instruction on the Three Crucial Statements
+      base_file: f88E2.txt
+      order: 1
+      parent: Advice
+    fCE30:
+      title: The Three Statements that Strike the Vital Point
+      base_file: fCE30.txt
+      order: 2
+      parent: Root Text
+    f6DDA:
+      title: Summary of Striking the Vital Point in Three Statements
+      base_file: f6DDA.txt
+      order: 3
+      parent: Summary
+    fAEAA:
+      title: The Special Teaching of the Wise and Glorious King – Commentary
+      base_file: fAEAA.txt
+      order: 4
+      parent: Special Teaching of the Wise and Glorious King
+    f990E:
+      title: The Special Teaching of the Wise and Glorious King—Root Text
+      base_file: f990E.txt
+      order: 5
+      parent: Special Teaching of the Wise and Glorious King
+    fAEC8:
+      title: The Special Teaching of the Wise and Glorious King—Root Text (arranged
+        in Tibetan-English verses)
+      base_file: fAEC8.txt
+      order: 6
+      parent: Special Teaching of the Wise and Glorious King
+    fCBDB:
+      title: Annotation Commentary on the Special Teaching of the Wise and Glorious
+        King
+      base_file: fCBDB.txt
+      order: 7
+      parent: Special Teaching of the Wise and Glorious King
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
